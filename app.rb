@@ -1,4 +1,4 @@
-require_relative 'config/environment'
+7require_relative 'config/environment'
 
 class App < Sinatra::Base
   configure do
